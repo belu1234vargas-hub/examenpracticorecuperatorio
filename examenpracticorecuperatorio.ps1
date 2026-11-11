@@ -1,0 +1,1 @@
+$usuariosLocales = Get-LocalUserget
